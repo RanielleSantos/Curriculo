@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html lang="pt-BR">
     <head>
     <title>Meu currículo</title>
@@ -21,7 +22,7 @@
 </head>
     <body>
         
-        <img src="1601605431851-dac264fc-b608-4e43-aff2-1e6d78f9984a_0001.jpg" width="120 heigth="120
+        <img src="![1601605431851-dac264fc-b608-4e43-aff2-1e6d78f9984a_0001](https://user-images.githubusercontent.com/72326350/95113617-1acab080-0719-11eb-8187-ca771362270b.jpg)" width="120 heigth="120
              title="Foto 3x4 Ranielle"
              
              style="float:left; margin-right: 10px;border: 2px solid #000"
