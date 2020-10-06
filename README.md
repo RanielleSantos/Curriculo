@@ -1,3 +1,4 @@
+
 <html lang="pt-BR">
     <head>
     <title>Meu currículo</title>
@@ -33,7 +34,9 @@
         <br>
         <br>
         <h1> Ranielle da Silva Santos</h1>
-        <br> 
+            
+            <p>Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais, programas. .</p>
+        <br>
         <br>
         <br>
         <br>
@@ -45,11 +48,13 @@
         
     <h3>Objetivo</h3>
 <p>
-    · Busco uma vaga no mercado onde posso colocar minhas habilidades em prática e colaborar com
-equipes de trabalho, tendo o crescimento da organização e o desenvolvimento pessoal e profissional
-como focos principais. Ademais, acredito que minhas qualidades pessoais se enquadram ao perfil da
-empresa, além de estar disposto a me esforçar para me enquadrar ao nível de profissional almejado. 
-        </p>
+    · <p>Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, 
+        sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais, programas. 
+        Busco uma vaga no mercado onde posso colocar minhas habilidades em prática e colaborar com
+        equipes de trabalho, tendo o crescimento da organização e o desenvolvimento pessoal e profissional
+        como focos principais. Ademais, acredito que minhas qualidades pessoais se enquadram ao perfil da
+        empresa, além de estar disposto a me esforçar para me enquadrar ao nível de profissional almejado. </p>
+        
         <br>
         <br>
         
