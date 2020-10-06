@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html lang="pt-BR">
     <head>
     <title>Meu currículo</title>
