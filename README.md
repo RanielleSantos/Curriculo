@@ -34,9 +34,6 @@
         <br>
         <br>
         <h1> Ranielle da Silva Santos</h1>
-            
-            <p>Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais, programas. .</p>
-        <br>
         <br>
         <br>
         <br>
@@ -45,9 +42,6 @@
         <br>
         <br>
         
-        
-    <h3>Objetivo</h3>
-
      <p>· Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, 
         sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais, programas. 
         Busco uma vaga no mercado onde posso colocar minhas habilidades em prática e colaborar com
