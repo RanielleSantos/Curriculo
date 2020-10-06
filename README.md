@@ -37,11 +37,6 @@
         <br>
         <br>
         <br>
-        <br>
-            <p>Militino José Pinto 49, Costa Telles I, Uberaba | 34 9 9113-1937 | raniellessantos@gmail.com</p>
-        </hgroup>
-        <br>
-        
         
      <p>· Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, 
         sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais e programas, 
@@ -71,21 +66,18 @@
         
         <br>
         <br>
-        
-    <h3>Idiomas</h3>
-        <p>Inglês - Básico</p>
-        <br>
-        <br>
-        
-    <h3>Informática</h3>
-        <p>Avançado</p>
-        
-        <br>
-        <br>
+
         
     <h3>Experiência</h3>
         <p><b>Editor Fotográfico | Neptuno Eventos |</b> 02/04/2018 – 22/05/2020</p>
-            
+        
+    <br>
+    <br>
+    
+    <h3>Contato</h3>
+        E-mail: raniellessantos@gmail.com
+        Celular: (34) 99113-1937 
+           
         
  
         
