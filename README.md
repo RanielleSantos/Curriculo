@@ -37,18 +37,18 @@
         <br>
         <br>
         <br>
-        <br>
             <p>Militino José Pinto 49, Costa Telles I, Uberaba | 34 9 9113-1937 | raniellessantos@gmail.com</p>
         </hgroup>
         <br>
-        <br>
+        
         
      <p>· Meu interesse pelo sistema de informação surgiu desde a primeira vez que usei um desktop, 
-        sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais, programas. 
-        Busco uma vaga no mercado onde posso colocar minhas habilidades em prática e colaborar com
-        equipes de trabalho, tendo o crescimento da organização e o desenvolvimento pessoal e profissional
-        como focos principais. Ademais, acredito que minhas qualidades pessoais se enquadram ao perfil da
-        empresa, além de estar disposto a me esforçar para me enquadrar ao nível de profissional almejado. </p>
+        sempre tive aquele interesse em saber como tudo funciona atrás dos Sitemas Operacionais e programas, 
+        por esse motivo escolhi fazer sistema de informação. Busco uma vaga no mercado onde posso colocar 
+        minhas habilidades em prática e colaborar com equipes de trabalho, tendo o crescimento da organização 
+        e o desenvolvimento pessoal e profissional como focos principais. Ademais, acredito que minhas qualidades 
+        pessoais se enquadram ao perfil da empresa, além de estar disposto a me esforçar para me enquadrar ao 
+        nível de profissional almejado. </p>
         
         <br>
         <br>
