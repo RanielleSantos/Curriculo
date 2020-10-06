@@ -46,6 +46,7 @@
         e o desenvolvimento pessoal e profissional como focos principais. Ademais, acredito que minhas qualidades 
         pessoais se enquadram ao perfil da empresa, além de estar disposto a me esforçar para me enquadrar ao 
         nível de profissional almejado. </p>
+            </hgroup>
         
         <br>
         <br>
@@ -76,11 +77,9 @@
     <br>
     
     <h3>Contato</h3>
-        E-mail: raniellessantos@gmail.com
-        Celular: (34) 99113-1937 
-           
-        
- 
+    <p> E-mail: raniellessantos@gmail.com</p>
+    <p> Celular: (34) 99113-1937 </p>
+    
         
         
 </body>
