@@ -37,6 +37,7 @@
         <br>
         <br>
         <br>
+        <br>
             <p>Militino José Pinto 49, Costa Telles I, Uberaba | 34 9 9113-1937 | raniellessantos@gmail.com</p>
         </hgroup>
         <br>
