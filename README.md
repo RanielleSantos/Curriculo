@@ -78,9 +78,9 @@
     <h3>Experiência</h3>
         <p><b>Editor Fotográfico | Neptuno Eventos |</b> 02/04/2018 – 22/05/2020</p>
         
-        <p><b>Adobe Photoshop - 4 anos</p>
-        <p><b>Adobe Premiere Pro - 3 anos</p>
-        <p><b>Adobe Lightroom Classic - 4 anos</p>
+        <p><b>Adobe Photoshop </b> - 4 anos</p>
+        <p><b>Adobe Premiere Pro </b> - 3 anos</p>
+        <p><b>Adobe Lightroom Classic </b> - 4 anos</p>
         
     <br>
     <br>
