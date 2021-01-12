@@ -70,7 +70,7 @@
         <br>
 
         <h3> Informática </h3>
-        <p><b>Avançado</b></p>
+        <p><b>Avançada</b></p>
         
         <br>
         <br>
