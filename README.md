@@ -78,7 +78,7 @@
     
     <h3>Contato</h3>
     <p> E-mail: raniellessantos@gmail.com</p>
-    <p> Celular: (34) 99113-1937 </p>
+    <p> Celular: (34) 98719-4770 </p>
     
         
         
