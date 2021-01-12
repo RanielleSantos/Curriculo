@@ -69,9 +69,18 @@
         <br>
         <br>
 
+        <p>• Informática</p>
+        <p><b>Avançado</b></p>
+        
+        <br>
+        <br>
         
     <h3>Experiência</h3>
         <p><b>Editor Fotográfico | Neptuno Eventos |</b> 02/04/2018 – 22/05/2020</p>
+        
+        <p><b>Adobe Photoshop - 4 anos</p>
+        <p><b>Adobe Premiere Pro - 3 anos</p>
+        <p><b>Adobe Lightroom Classic - 4 anos</p>
         
     <br>
     <br>
