@@ -53,7 +53,7 @@
         
     <h3>Educação</h3>
         <p>• Graduação em Sistema de Informação</p>
-               <p> <b>CURSANDO – 3° PERÍODO | ATUAL | FACTHUS – FACULDADE DE TALENTOS HUMANOS – PERÍODO NOTURNO</b></p>
+               <p> <b>CURSANDO – 4° PERÍODO | ATUAL | FACTHUS – FACULDADE DE TALENTOS HUMANOS – PERÍODO NOTURNO</b></p>
         <br>
         <br>
         
