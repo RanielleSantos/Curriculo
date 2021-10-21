@@ -33,7 +33,8 @@
         
         <br>
         <br>
-        <h1> Ranielle da Silva Santos</h1>
+        <h1> Ranielle da Silva Santos</h1><h3>  22 anos</h3>
+        <h3>raniellessantos@gmail.com | 34 98719-4770 </h3>
         <br>
         <br>
         <br>
