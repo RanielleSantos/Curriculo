@@ -67,12 +67,7 @@
         <p>• Curso Online</p>
         <p><b>Udemy - CONCLUIDO | Curso Desenvolvedor Web Completo | 2020 </b></p>
         <p><b> Alura - CURSANDO | Java e Orientação a Objetos | 68 Horas concluída de 130 Horas </b></p>
-        
-        <br>
-        <br>
-
-        <h3> Informática </h3>
-        <p><b>Avançada</b></p>
+       
         
         <br>
         <br>
